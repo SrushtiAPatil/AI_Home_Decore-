@@ -1,0 +1,10 @@
+<!-- File: ic_category_hall.xml -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <path
+        android:fillColor="#6200EE"
+        android:pathData="M4,18v-6h3v6H4zM17,18v-6h3v6H17zM9,20v-8h6v8H9zM2,9l10,-5l10,5v2H2V9z"/>
+</vector>
